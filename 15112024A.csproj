@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Library</OutputType>
+    <TargetFramework>net9.0</TargetFramework>
+    <RootNamespace>ColorLibrary</RootNamespace>
+    <AssemblyName>ColorLibrary</AssemblyName> <!-- change name for .exe .json -->
+    <TargetName>ColorLibrary</TargetName> <!-- change name for .dll .pdb -->
+    <ImplicitUsings>disable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+</Project>
